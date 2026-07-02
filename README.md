@@ -118,10 +118,10 @@ Raw CSV  →  Python Cleaning  →  MySQL Analysis  →  Power BI Dashboard
 ## 📸 Dashboard Preview
 
 ### Page 1 - Executive Overview
-![Page1](page1_executive_overview.png)
+![Page1](Page 1 Executive Overview.png)
 
 ### Page 2 - Risk Driver Analysis
-![Page2](page2_risk_driver_analysis.png)
+![Page2](Page 2 Risk Driver Analysis.png)
 
 ### Page 3 - Geographic View
 ![Page3](page3_geographic_view.png)
